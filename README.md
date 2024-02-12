@@ -1,7 +1,5 @@
 # DungeonRoomsMod
 A 1.8.9 Minecraft Forge Mod for Hypixel Skyblock which adds Secret Waypoints to Dungeons
-Dungeon Rooms Mod
-version mcversion downloads discord
 
 What it does:
 This mod adds Secret Waypoints to Skyblock Dungeons, allowing for faster and easier secret finding. The hotkey to configure waypoints is "P" by default.
@@ -17,9 +15,6 @@ Is this bannable?
 Short answer: This mod follows the general interpretation of Hypixel's rules, does not modify packets in any way, and is most likely not bannable, but as with all mods, it is use at your own risk.
 
 Long Answer: https://quantizr.github.io/posts/is-it-bannable/
-
-Discord:
-Discord
 
 Hotkeys:
 (Configurable in Controls Menu)
